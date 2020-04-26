@@ -1,6 +1,6 @@
 # E01: ToDo
 
-Watch the video [here](Watch Me Build A ToDo App Using Laravel Livewire And Bootstrap)
+Watch the video [here](https://www.youtube.com/watch?v=0Y6aHZTJFNQ)
 
 ## Features
 - Add Task
